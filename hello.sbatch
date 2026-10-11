@@ -13,3 +13,4 @@ nvidia-smi
 python3 check_gpu.py
 sleep 60
 echo "done"
+# changed after review
